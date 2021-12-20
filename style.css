@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+}
+.btn-danger{
+    width: 90%;
+    height: 80px;
+    font-size: 20px;
+}
+.btn-danger span{
+    font-size: 14px;
+}
+.speed_div{
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+.volume_div{
+    float: right;
+    margin-right: 20px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.speed_div h3{
+   width: 200px;
+   height: 35px;
+   font-size: 20px;
+   color: white;
+}
+.volume_div h3{
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    color: white;
+ }
+ canvas{
+     border-radius: 15px;
+     box-shadow: 5px 5px 5px gray;
+     border: solid white 2px;
+     margin-top: 30px;
+ }
+ .play_button{
+     width: 130px;
+     height: 45px;
+     font-size: 20px;
+ }
+ .stop_button{
+     width: 130px;
+     height: 45px;
+     font-size: 20px;
+     margin-left:20px ;
+ }
